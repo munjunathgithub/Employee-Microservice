@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.emp.entity.Employee;
+import com.emp.Entity.Employee;
 
 @Service
 public class EmployeeServiceImpl implements IEmployeeService {

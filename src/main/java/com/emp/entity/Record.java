@@ -1,4 +1,4 @@
-package com.emp.entity;
+package com.emp.Entity;
 
 public class Record { 
 	

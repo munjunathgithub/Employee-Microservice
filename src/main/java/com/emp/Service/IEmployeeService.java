@@ -1,6 +1,6 @@
 package com.emp.Service;
 
-import com.emp.entity.Employee;
+import com.emp.Entity.Employee;
 
 public interface IEmployeeService {
 	
